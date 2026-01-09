@@ -71,7 +71,7 @@ Tujuan utama adalah membuat wearable yang mampu mendeteksi kondisi medis dan lin
 
 ---
 
-## 4. Analisis Komponen (keputusan pemilihan)
+## 4. Analisis Komponen
 
 > **MCU — ESP32‑S3‑MINI‑1‑N8**
 
