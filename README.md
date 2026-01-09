@@ -155,19 +155,3 @@ Tujuan utama adalah membuat wearable yang mampu mendeteksi kondisi medis dan lin
 
 ---
 
-## 10. Roadmap & Rekomendasi
-
-1. Buat prototipe PCB 2-layer dengan footprint komponen utama.
-2. Validasi hardware (sensor readout, audio, haptic) di lab.
-3. Kembangkan & quantize TinyML models; uji inferensi pada ESP32‑S3.
-4. Uji lapangan terbatas di area tambang simulasi.
-5. Siapkan dokumentasi PIMNAS/PKM (metodologi, hasil uji, rencana pengembangan).
-
----
-
-## Kontak & Lisensi
-
-* Tim SENSE — Dokumentasi internal untuk prototyping PKM-KC / PIMNAS.
-* Lisensi: MIT (default untuk prototyping) — sesuaikan bila perlu.
-
----
