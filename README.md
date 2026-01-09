@@ -10,14 +10,6 @@
 
 ---
 
-## Ringkasan
-
-Dokumen ini adalah README prototipe SENSE — analisis dan pembenaran pemilihan komponen berdasarkan: **efisiensi daya**, **ukuran / form factor**, dan **fungsionalitas** khusus untuk lingkungan tambang bawah tanah (gelap, berdebu, ruang sempit, sinyal seluler buruk).
-
-Tujuan utama adalah membuat wearable yang mampu mendeteksi kondisi medis dan lingkungan berisiko (detak jantung abnormal, SpO2 drop, gas berbahaya, jatuh/man-down), memberikan peringatan yang jelas melalui suara, getar, dan LED, serta mengirim data ke gateway lokal via BLE/Wi‑Fi.
-
----
-
 ## Struktur README
 
 1. Tujuan & Use-cases
