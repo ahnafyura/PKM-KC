@@ -21,7 +21,6 @@
 7. Integrasi Perangkat Lunak (TinyML, Audio, Storage)
 8. Catatan Prototyping & Pengujian
 9. Risiko & Mitigasi
-10. Roadmap dan Rekomendasi
 
 ---
 
