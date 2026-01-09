@@ -171,9 +171,3 @@ Tujuan utama adalah membuat wearable yang mampu mendeteksi kondisi medis dan lin
 * Lisensi: MIT (default untuk prototyping) — sesuaikan bila perlu.
 
 ---
-
-Jika ingin, saya bisa:
-
-* Menambahkan tabel BoM lengkap dengan part numbers dan estimasi harga.
-* Menyusun skematik referensi Eagle/ KiCad.
-* Membuat daftar pengujian laboratorium (test plan) terstruktur.
